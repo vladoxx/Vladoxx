@@ -91,11 +91,11 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladoxx&theme=codeSTACKr&layout=compact" alt="Your Repository's Stats" style="max-width: 100%; height: auto;">
 </div>
 
-  <!-- <div style="flex: 1; min-width: 300px; margin: 10px;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=53bc095a-5dc8-4836-a076-d444e004da49" alt="vladoxx's wakatime stats">
     </a>
-  </div> -->
+  </div>
 
   <hr>
 
