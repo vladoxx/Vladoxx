@@ -72,17 +72,17 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; width: 100%;">
 
-  <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
+ <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
     <h3>Starred repositories</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=vladoxx&repo=alura-oracle_challenge_02_jogo-da-forca&theme=codeSTACKr" alt="Readme Card" style="width: 100%; height: auto;">
     </a>
-  </div> -->
+ </div> -->
 
-  <!-- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
+<!-- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=vladoxx&theme=codeSTACKr&count_private=true&show_icons=true" alt="Your Repository's Stats" style="width: 100%; height: auto;">
-  </div> -->
+</div> -->
 
 
 <!-- <div style="text-align: center; margin: 20px auto; max-width: 400px;">
@@ -90,11 +90,11 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladoxx&theme=codeSTACKr&layout=compact" alt="Your Repository's Stats" style="max-width: 100%; height: auto;">
 </div> -->
 
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
+<!-- <div style="flex: 1; min-width: 300px; margin: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=53bc095a-5dc8-4836-a076-d444e004da49" alt="vladoxx's wakatime stats">
     </a>
-  </div>
+</div> -->
 
   <hr>
 
