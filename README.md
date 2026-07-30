@@ -70,29 +70,6 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 <hr>
 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast) -->
-
-<!-- <p align="center">
-  <img width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
-  <img width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
-</p> -->
-
-
-<table width="100%">
-<tr>
-<td width="65%" align="left" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="450">
-</td>
-
-<td width="35%" align="right" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" width="320">
-</td>
-</tr>
-</table>
-
-
 <a href="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
   <img align="left" width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
 </a>
@@ -101,35 +78,12 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
   <img align="right" width="330" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
 </a>
 
+
 <br clear="both" />
 
-<!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; width: 100%;">
-
- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
-    <h3>Starred repositories</h3>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=vladoxx&repo=alura-oracle_challenge_02_jogo-da-forca&theme=codeSTACKr" alt="Readme Card" style="width: 100%; height: auto;">
-    </a>
- </div> -->
-
-<!-- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=vladoxx&theme=codeSTACKr&count_private=true&show_icons=true" alt="Your Repository's Stats" style="width: 100%; height: auto;">
-</div> -->
-
-
-<!-- <div style="text-align: center; margin: 20px auto; max-width: 400px;">
-  <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladoxx&theme=codeSTACKr&layout=compact" alt="Your Repository's Stats" style="max-width: 100%; height: auto;">
-</div> -->
-
-<!-- <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=53bc095a-5dc8-4836-a076-d444e004da49" alt="vladoxx's wakatime stats">
-    </a>
-</div> -->
 
   <hr>
+  
 
 <div style="display: flex; justify-content: center; width: 100%;">
 
@@ -147,30 +101,15 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 </div>
 
-<!--<div align="center">
-  <h2>Contributors Badge</h2>
-  <p>
-    <img src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios" alt="GitHub Contributors Image" />
-  </p>
-
-  <h2>Contato / Portfólio</h2>
-  <p>
-    <a href="https://linktr.ee/vladoxx" target="_blank">
-      <img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-    </a>
-  </p>
-</div> -->
 
 <hr>
+
 
 <div style="float: right;">
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)  
 ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
 
-<!--![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<!--![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) -->
 
 </div>
-
-  <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)
-  ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
