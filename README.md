@@ -114,7 +114,7 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 </div>
 
-<div align="center">
+<!--<div align="center">
   <h2>Contributors Badge</h2>
   <p>
     <img src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios" alt="GitHub Contributors Image" />
