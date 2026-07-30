@@ -89,17 +89,14 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 | Nativo      | ![Espanhol](https://img.shields.io/badge/Idioma-Espanhol-red)   |
 
 
-<br>
-
 <hr>
-  
 
-<div style="display: flex; justify-content: center; width: 100%;">
-
-  <div style="flex: 1; max-width: 50%; text-align: center;">
-    <h2 style="margin-bottom: 16px;">Contributors Badge</h2>
-    <img src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios" alt="GitHub Contributors Image" />
-  </div>
+  <img
+  align="center"
+  width="65"
+  src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios"
+  alt="GitHub Contributors"
+  />
 
   <div style="flex: 1; max-width: 50%; text-align: center;">
     <h2 style="margin-bottom: 32px;">Contato / Portfólio</h2>
@@ -108,13 +105,9 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
     </a>
   </div>
 
-</div>
+<!-- <div style="float: right;"> -->
 
-
-<hr>
-
-
-<div style="float: right;">
+<br>
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)  
 ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
@@ -122,3 +115,5 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 <!--![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) -->
 
 </div>
+
+<hr>
