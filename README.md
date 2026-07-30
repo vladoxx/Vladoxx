@@ -108,7 +108,7 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 </td>
 
-<td width="400"></td>
+<td width="350"></td>
 
 <td valign="top" align="left">
 
