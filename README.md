@@ -70,21 +70,20 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 <hr>
 
-<!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; width: 100%;"> -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; width: 100%;">
 
-  <!-- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
     <h3>Starred repositories</h3>
     <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block;">
       <img src="https://github-readme-stats.vercel.app/api/pin?username=vladoxx&repo=alura-oracle_challenge_02_jogo-da-forca&theme=codeSTACKr" alt="Readme Card" style="width: 100%; height: auto;">
     </a>
-  </div> -->
+  </div>
 
-  <!-- <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
+  <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=vladoxx&theme=codeSTACKr&count_private=true&show_icons=true" alt="Your Repository's Stats" style="width: 100%; height: auto;">
-  </div> -->
+  </div>
 
-<!-- </div> -->
 
 <div style="text-align: center; margin: 20px auto; max-width: 400px;">
   <h3>Most Used Languages</h3>
@@ -115,7 +114,7 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <h2>Contributors Badge</h2>
   <p>
     <img src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios" alt="GitHub Contributors Image" />
@@ -127,18 +126,18 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
       <img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
   </p>
-</div> -->
+</div>
 
 <hr>
 
-<!-- <div style="float: right;">
+<div style="float: right;">
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)  
 ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
 
 ![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
-</div> -->
+</div>
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)
   ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
