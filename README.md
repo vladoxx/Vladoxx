@@ -74,10 +74,10 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast) -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img width="350" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
-</p>
+</p> -->
 
 
 <table width="100%">
