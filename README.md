@@ -92,6 +92,17 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 </tr>
 </table>
 
+
+<a href="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
+  <img align="left" width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+</a>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast">
+  <img align="right" width="330" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
+</a>
+
+<br clear="both" />
+
 <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; width: 100%;">
 
  <div style="flex: 1 1 100%; max-width: 300px; text-align: center;">
