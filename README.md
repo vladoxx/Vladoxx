@@ -135,7 +135,7 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 ![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)  
 ![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
 
-![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<!--![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 </div>
 
