@@ -126,7 +126,7 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
       <img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
     </a>
   </p>
-</div>
+</div> -->
 
 <hr>
 
