@@ -1,5 +1,6 @@
 <hr>
 
+
 ## 👋 Olá, Mundo!
 
 Sou **Wlad**, formado em Turismo e apaixonado por programação, cursando vários cursos na área. Tenho experiência como **desenvolvedor** em uma Startup e na área técnica de **Geotecnologia** em outra empresa, no suporte e aplicações de uso de APIs do Google Maps.
@@ -8,9 +9,31 @@ Possuo experiência em projetos colaborativos e metodologias ágeis como Scrum e
 
 Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, criptomoedas e blockchain*.
 
+
 <hr>
 
 <br>
+
+
+## 📊 Stats
+
+<a href="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
+  <img align="left" width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
+</a>
+
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast">
+  <img align="right" width="330" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
+</a>
+
+<br clear="both" />
+
+
+<br>
+
+<hr>
+
+<br>
+
 
 ## 💡 Technologies
 
@@ -55,9 +78,11 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+
 <br>
 
 <hr>
+
 
 ## 💬 Languages
 
@@ -68,21 +93,9 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 | Nativo      | ![Espanhol](https://img.shields.io/badge/Idioma-Espanhol-red)   |
 
 
+<br>
+
 <hr>
-
-<a href="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark">
-  <img align="left" width="470" src="https://github-stats-extended.vercel.app/api?username=vladoxx&rank_icon=github&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast">
-  <img align="right" width="330" src="https://github-stats-extended.vercel.app/api/top-langs?username=vladoxx&layout=donut&langs_count=10&theme=highcontrast" />
-</a>
-
-
-<br clear="both" />
-
-
-  <hr>
   
 
 <div style="display: flex; justify-content: center; width: 100%;">
