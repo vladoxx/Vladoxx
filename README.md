@@ -80,40 +80,67 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 <hr>
 
 
-## 💬 Languages
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" align="left">
 
-| Nível       | Idioma     |
-|-------------|-------------|
-| Básico  | ![Inglês](https://img.shields.io/badge/Idioma-Ingl%C3%AAs-blue)  |
-| Avançado    | ![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green) |
-| Nativo      | ![Espanhol](https://img.shields.io/badge/Idioma-Espanhol-red)   |
-
-
-<hr>
-
-  <img
-  align="center"
+<!-- <img
   width="65"
   src="https://contrib.rocks/image?repo=vladoxx/trybe-exercicios"
   alt="GitHub Contributors"
+/> -->
+
+<h2>Contato / Portfólio</h2>
+
+<a href="https://linktr.ee/vladoxx" target="_blank">
+  <img
+    loading="lazy"
+    src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
+    alt="Linktree"
   />
+</a>
 
-  <div style="flex: 1; max-width: 50%; text-align: center;">
-    <h2 style="margin-bottom: 32px;">Contato / Portfólio</h2>
-    <a href="https://linktr.ee/vladoxx" target="_blank">
-      <img loading="lazy" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-    </a>
-  </div>
+<br><br>
 
-<!-- <div style="float: right;"> -->
-
+<img src="https://komarev.com/ghpvc/?username=vladoxx" alt="Profile Views">
 <br>
-  
-![Profile View Counter](https://komarev.com/ghpvc/?username=vladoxx)  
-![Hits](https://hits.sh/github.com/vladoxx/vladoxx.svg)
+<img src="https://hits.sh/github.com/vladoxx/vladoxx.svg" alt="Hits">
+
+</td>
+
+<td width="500"></td>
+
+<td valign="top" align="left">
+
+<h2>💬 Languages</h2>
+
+<table>
+<tr>
+<th>Level</th>
+<th>Language</th>
+</tr>
+
+<tr>
+<td>Basic</td>
+<td><img src="https://img.shields.io/badge/Idioma-Inglês-blue"></td>
+</tr>
+
+<tr>
+<td>Advanced</td>
+<td><img src="https://img.shields.io/badge/Idioma-Português-green"></td>
+</tr>
+
+<tr>
+<td>Native</td>
+<td><img src="https://img.shields.io/badge/Idioma-Espanhol-red"></td>
+</tr>
+
+</table>
+
+</td>
+</tr>
+</table>
 
 <!--![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) -->
-
-</div>
 
 <hr>
