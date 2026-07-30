@@ -12,8 +12,6 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 <hr>
 
-<br>
-
 
 ## 📊 Stats
 
@@ -27,8 +25,6 @@ Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, c
 
 <br clear="both" />
 
-
-<br>
 
 <hr>
 
