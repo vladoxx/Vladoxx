@@ -3,11 +3,7 @@
 
 ## 👋 Olá, Mundo!
 
-Sou **Wlad**, formado em Turismo e apaixonado por programação, cursando vários cursos na área. Tenho experiência como **desenvolvedor** em uma Startup e na área técnica de **Geotecnologia** em outra empresa, no suporte e aplicações de uso de APIs do Google Maps.
-
-Possuo experiência em projetos colaborativos e metodologias ágeis como Scrum e Kanban. Busco novos desafios que me permitam aplicar e expandir meus conhecimentos, evoluindo continuamente.
-
-Sou apaixonado por *trekking, música, viagens, videogames, leitura, trading, criptomoedas e blockchain*.
+Sou **Wlad**, Desenvolvedor web focado na criação de ecossistemas digitais eficientes. Sou apaixonado por resolver problemas através de código, utilizando JavaScript, WordPress e Elementor para criar interfaces inteligentes e automatizadas. Quando não estou otimizando arquiteturas web ou experimentando com modelos de IA, você me encontra ajustando componentes de alta performance, pedalando na minha bicicleta ou imerso no mundo de criptomoedas, mangás/manhwa e manhua...
 
 
 <hr>
